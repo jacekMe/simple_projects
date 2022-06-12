@@ -1,6 +1,7 @@
 import datetime
 import calendar
 
+# code only for python 3.10
 # def translate_to_polish(day_name):
 #     match day_name:
 #         case 'Monday':
